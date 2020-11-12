@@ -1,0 +1,26 @@
+ # Passo 1
+    Você deverá criar um arquivo chamado feed.html, ele ficará responsável por exibir os posts
+
+ # Passo 2
+    Você deve criar a Estrutura padrão de HTML ja colocando o titulo da página:
+
+    Dica: Você pode encontrar o padrão nessa imagem: https://dmx3002a.files.wordpress.com/2015/07/estruturapadraohtml.jpg
+
+# Passo 3
+
+    Você deve criar a estrutura para o Menu ( Header ) do nosso projeto. Ela deverá conter os seguintes itens:
+     - Logo que esta ná página de imagens
+     - Texto dando boas vindas ao usuário ( Pode deixar um texto fixo " Olá seu nome")
+     - Um botão com a frase: Cadastrar Nova Foto
+     - Um botão com o ícone de PowerOff que está na pasta de imagens
+
+# Passo 4
+    Você deverá criar uma estrutura do tipo caixa para que contenha/segure a exibição de todos os posts
+    Dica: Você pode usar a Tag DIV ou SECTION. Qual você acha melhor?"
+
+# Passo 5
+
+    Dentro da estrutura para posts você deverá criar a estrutura de um post. Um post deverá conter as seguintes informações:
+
+    - Deverá exibir o nome de quem fez o post. Ex: "Por: Marcos Andrade"
+    - Deverá conter uma imagem logo abaixo de quem fez o post
